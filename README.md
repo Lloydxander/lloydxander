@@ -1,5 +1,5 @@
 <h1 align="center">Lloydxander🤪</h1>
-<p>
+<p align="center">
   <a href="mailto:awazie.sam@gmail.com">Gmail</a>
 </p>
 
