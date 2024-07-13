@@ -1,4 +1,7 @@
-<h1>Lloydxander</h1>
+<h1 align="center">Lloydxander🤪</h1>
+<p>
+  <a href="mailto:awazie.sam@gmail.com">Gmail</a>
+</p>
 
 <br />
 <p>Hey there</p>
