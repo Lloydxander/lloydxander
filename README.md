@@ -5,4 +5,4 @@
 
 <br />
 <p>Hey there</p>
-<p>I'm an aspiring fullstack developer</p>
+<p>I'm a budding data scientist and analyst</p>
