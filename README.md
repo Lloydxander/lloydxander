@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! 👋 I'm Lloydxander</h1>
+<h1 align="center">Hello World! 👋 I'm Samuel Awazie</h1>
 
 ## 💫 Hey there! About Me
 - 💻 I'm a data analyst
